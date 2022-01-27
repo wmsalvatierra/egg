@@ -10,13 +10,4 @@ package modelo.service;
  * @author Usuario
  */
 public class AhorcadoService {
-    private String [] palabra= new String[50];
-    private int leten;
-    private int jugadasmax;
-    
-    
-    
-    
-    
-    
 }
